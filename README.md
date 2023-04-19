@@ -37,6 +37,6 @@ Number of Attributes: 65
 
 ## Convergence Graph
 
-The graph is made for **Sample 7** which gives the highest accuracy of **1.0**
+The graph is made for **Sample 8** which gives the highest accuracy of **1.0**
 
 ![Graph](https://user-images.githubusercontent.com/84912620/233197966-c1146b2c-e203-4b4e-a4fa-946665057cbd.png)
